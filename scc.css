@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*navbar*/
+#kinopka{
+    border: none;
+    background-color: #1090CB;
+    color: white;
+}
+#kinop{
+    border: none;
+    background-color: #1090CB;
+    color: white;
+    border-radius:15px ;
+}
+#mmm{
+    border: none;
+    border-radius: 15px;
+}
+#tel{
+    border: none;
+    background-color: #DEDF;
+}
+#bilu{
+    color: #1090CB;
+}
+#bil{
+    color: #1090CB;
+}
+#ko\'k{
+    border: none;
+    background-color: #1090CB;
+}
+#qora{
+    border: none;
+    background-color: black;
+}
+#logo{
+    border: none;
+    color: #1090CB;
+}
+#i{
+    background-color: #E8F4FA;
+}
